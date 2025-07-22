@@ -23,7 +23,7 @@ A modern, feature-rich version of the classic Snake game built using **Python** 
 ## 📸 Preview
 
 >  ![Image Alt](https://github.com/DANDI-AX/Project-7/blob/bfa7024212ba20706dfc03bbc3420b9f91ff10a6/Screenshot%202025-07-22%20233305.png)
-
+![Image Alt](https://github.com/DANDI-AX/Project-7/blob/ae584fb9bea2c6785e005ff2caa9b967bbb234e8/Screenshot%202025-07-22%20233514.png)
 ---
 
 ## 🛠️ Requirements
